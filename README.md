@@ -31,4 +31,3 @@ make
 ```
 
 روی ویندوز با MSYS2 (`pacman -S mingw-w64-ucrt-x86_64-gcc make`) هم اجرا می‌شه. روی اندروید با Termux هم میشه، فقط باید بنویسید `make CXX=clang++` چون Termux پیش‌فرض clang داره نه g++.
-# LifeQuest-FinanceSim
